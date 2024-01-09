@@ -10,8 +10,8 @@ class Foo:
     print("Hello foo7")
     print("Hello foo8")
     print("Hello foo8")
-    print("Hello foo8")
-    print("Hello foo8")
+    print("Hello foo70")
+    print("Hello foo9")
     
     
 
