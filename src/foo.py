@@ -13,6 +13,9 @@ class Foo:
     print("Hello foo70")
     print("Hello foo9")
     print("Hello foo9")
+    print("Hello foo9")
+    print("Hello foo9")
+    print("Hello foo9")
     
     
 
