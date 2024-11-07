@@ -1,4 +1,6 @@
 print("Chad's new file")
 print("Wanda testing migrations")
+print("Hello Zak!")
+print("Hello Zak!")
 print("Wanda testing migrations")
 print("Wanda testing migrations")
