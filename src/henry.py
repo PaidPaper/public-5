@@ -4,4 +4,6 @@ print("Wanda testing preflight 1.11.5 - migrations")
 print("Wanda testing preflight 1.11.5 - migrations")
 print("Wanda testing preflight 1.11.5 - migrations")
 print("Wanda testing preflight 1.11.5 - migrations")
+print("Wanda testing preflight 1.11.5 - migrations")
+
 
