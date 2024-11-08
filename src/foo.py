@@ -19,6 +19,7 @@ class Foo:
     print("Hello foo9")
     print("Hello foo9")
     print("Hello foo10")
+    print("Hello foo10")
     print("Hello foo9")
     print("Hello foo10")
     print("Hello foo9")
